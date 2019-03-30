@@ -34,7 +34,7 @@ Then the wave equation is inserted in the Schrödinger equation and taking the p
 
 The expression above is a matrix so we can get information from it if we diagonalizate it. We can get eigenvalues which are the energies and the respecting eigenvector. After that, we can construct the wave function.
 
-I constructed a program in python that diagonalizate the matrix, find thw wave function and then plot the probability density function (Laguerre-probability-density-function.py).
+I constructed a program in python that diagonalizate the matrix, find the wave function and then plot the probability density function (Laguerre-probability-density-function.py) for the hydrogen atom. It works with l=0 systems.
 
 
 
